@@ -1,11 +1,14 @@
-# Cloudsurfer — nova versão com vídeos reais
+# On Cloudsurfer — motion graphic
 
-[Baixar o vídeo em MP4, 30 segundos, 1080p](./cloudsurfer-motion-v2.mp4?raw=true)
+[Baixar versão estendida — MP4, 50 segundos](./cloudsurfer-motion-v3.mp4?raw=true)
 
-A versão2 tem logo oficial, entrada pela letraO, filmagem real na montanha, closes reais do Cloudsurfer3, fotos oficiais, chamadas de tecnologia com setas, vista em camadas, corrida e celebração, com trilha original.
+Vídeo horizontal em Full HD. Os 30 segundos aprovados foram preservados integralmente. Foram acrescentados 20 segundos com letras em stop motion, narração em português e música sob a voz, usando as mesmas fotos e filmagens do produto.
 
-Conceito criativo independente, sem vínculo oficial com a On. O trecho técnico usa simulaçãoCGI e filmagem real de componentes separados já existentes; não é um novo modelo3Dcompleto. O encerramento apresenta celebração após corrida, sem identificar um resultado de vitória ou atribuir o desempenho ao tênis.
+[Fontes e créditos da extensão](./CREDITOS-v3.md) · [Créditos dos 30 segundos originais](./CREDITOS-v2.md)
 
-[Fontes e créditos](./CREDITOS-v2.md)
+Conceito criativo independente. Não é uma campanha oficial da On.
 
-A prévia antiga de cartelas continua preservada em `cloudsurfer-previa-30s.mp4`.
+## Versões anteriores
+
+- [Versão 2 — MP4, 30 segundos](./cloudsurfer-motion-v2.mp4?raw=true)
+- [Primeira prévia](./cloudsurfer-previa-30s.mp4?raw=true)
